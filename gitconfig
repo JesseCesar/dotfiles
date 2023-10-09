@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = cesaralexandreprofissional@gmail.com
+	name = Cesar Alexandre
